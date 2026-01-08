@@ -1,6 +1,6 @@
 # 7.3 – Adverb Clauses: Contrast Öğreten Uygulama
 başlarken mutlaka npm install
-npm run dev komutlarını çalıştırın
+/npm run dev komutlarını çalıştırın
 
 Bu proje, İngilizce dil bilgisinde **7.3 – Adverb Clauses: Contrast** konusunu öğretmek için geliştirilmiş yapay zeka destekli bir öğrenme uygulamasıdır.
 
