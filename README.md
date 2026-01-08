@@ -1,4 +1,5 @@
 # 7.3 – Adverb Clauses: Contrast Öğreten Uygulama
+başlarken mutlaka npm install
 
 Bu proje, İngilizce dil bilgisinde **7.3 – Adverb Clauses: Contrast** konusunu öğretmek için geliştirilmiş yapay zeka destekli bir öğrenme uygulamasıdır.
 
